@@ -31,7 +31,7 @@ step 2. you shoud have `Docker` and `Curl` installed on the server. So open a te
 ```sh 
 $ sudo apt-get update                                                                                                                                                                             
 ```
-the run:
+then run:
 ```sh
 $ sudo apt-get install curl                                                                                                          
 ```
@@ -50,7 +50,8 @@ now you should have `Docker` installed. To test it run this command:
 $ docker run hello-world                                                                                                                         
 ```
 
-then you should restart `Docker`
+then you should restart `Docker`:
+Run:
 ```sh
 $ sudo service docker restart                                                                                                   
 ```
