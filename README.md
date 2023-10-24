@@ -16,18 +16,18 @@ $ which curl
 ```
 
 ```sh
-$ which docker
+$ which docker                                                                                                                 
 ```
 if you don't see ouput, move to step 2 and if you do skip.
 
 
 step 2. you shoud have Docker and curl installed on the server. So open a terminal and type:
 ```sh 
-$ sudo apt-get update
+$ sudo apt-get update                                                                                                                   
 ```
 and:
 ```sh
-$ sudo apt-get install curl
+$ sudo apt-get install curl                                                                          
 ```
 
 when everything is updated, run the following command for installing `Docker`:
