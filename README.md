@@ -24,7 +24,7 @@ $ which git
 ```
 
 
-if you don't see ouput, move to step 2 and if you do skip.
+if you don't see output, move to step 2 and if you do skip.
 
 
 step 2. you shoud have `Docker` and `Curl` installed on the server. So open a terminal and type:
